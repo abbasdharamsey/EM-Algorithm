@@ -1,0 +1,8 @@
+Abbas Dharamsey, Artificial Intelligece EM algorithm for noisy-OR
+
+This was a task assigned in my Artifical Intelligence class for us to use the EM algorithm to estimate the noisy-OR parameters, pi, for the given dataset. As pi becomes more accurate, P(Y=1 | X) becomes more accurate and we get a more accurate log likelihood of the prediction.
+
+All of the code is written in python. The test files are included, to run just have Python 2.7 installed and type 'python hw4.py' in the terminal. 
+
+The homework file (hw4_wi15.pdf) has more information about the algorithms taking place in the code.
+
